@@ -1,6 +1,12 @@
-import { SafeAreaView, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { useRouter } from 'expo-router';
+import { StatusBar, StyleSheet, Text, TouchableOpacity, View, Linking } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 export default function HomeScreen() {
+  const router = useRouter();
+  const callSamu = () => {
+    Linking.openURL('tel:192');
+  }
   return (
     <SafeAreaView style={styles.safeArea}>
       <StatusBar barStyle="light-content" backgroundColor="#0f172a" />
@@ -41,7 +47,7 @@ export default function HomeScreen() {
           <TouchableOpacity 
             style={styles.btnSecondary} 
             activeOpacity={0.8}
-            onPress={() => alert('Em breve: Abrindo Guia de Primeiros Socorros')}
+            onPress={() => router.push('/explore')}
           >
             <Text style={styles.btnSecondaryText}>📖 Guia de Primeiros Socorros</Text>
           </TouchableOpacity>
@@ -51,7 +57,7 @@ export default function HomeScreen() {
         <View style={styles.footer}>
           <TouchableOpacity 
             style={styles.btnSamu}
-            onPress={() => alert('Ligando para o SAMU (192)...')}
+            onPress={callSamu}
           >
             <Text style={styles.samuText}>Ligar SAMU: 192</Text>
           </TouchableOpacity>

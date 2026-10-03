@@ -32,6 +32,12 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Permite que o SoroVidas acesse sua localização para encontrar hospitais próximos."
+        }
       ]
     ],
     "experiments": {

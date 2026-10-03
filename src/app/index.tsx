@@ -1,12 +1,12 @@
 import { useRouter } from 'expo-router';
-import { StatusBar, StyleSheet, Text, TouchableOpacity, View, Linking } from 'react-native';
+import { Linking, StatusBar, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 export default function HomeScreen() {
   const router = useRouter();
   const callSamu = () => {
     Linking.openURL('tel:192');
-  }
+    }
   return (
     <SafeAreaView style={styles.safeArea}>
       <StatusBar barStyle="light-content" backgroundColor="#0f172a" />
@@ -36,13 +36,16 @@ export default function HomeScreen() {
 
         {/* Ações Principais */}
         <View style={styles.actionContainer}>
-          <TouchableOpacity 
-            style={styles.btnPrimary} 
-            activeOpacity={0.8}
-            onPress={() => alert('Em breve: Redirecionando para o Mapa de Emergência')}
-          >
-            <Text style={styles.btnPrimaryText}>🚨 Buscar Hospital Próximo</Text>
-          </TouchableOpacity>
+   <TouchableOpacity 
+  style={styles.btnPrimary} 
+  activeOpacity={0.8}
+  onPress={() => {
+    console.log("Botão clicado! Tentando abrir a tela de unidades...");
+    router.push('/unidades' as any);
+  }}
+>
+  <Text style={styles.btnPrimaryText}>🚨 Buscar Hospital Próximo</Text>
+</TouchableOpacity>
 
           <TouchableOpacity 
             style={styles.btnSecondary} 

@@ -22,11 +22,11 @@ export default function AppTabs() {
         />
       </NativeTabs.Trigger>
 
-      {/* Aba 2: Hospitais (A nova rota que criámos) */}
+      {/* Aba 2: Hospitais */}
       <NativeTabs.Trigger name="unidades">
         <NativeTabs.Trigger.Label>Hospitais</NativeTabs.Trigger.Label>
         <NativeTabs.Trigger.Icon
-          src={require('@/assets/images/tabIcons/home.png')} // Pode alterar para um ícone de hospital/mapa mais tarde
+          src={require('@/assets/images/tabIcons/hospital.png')}
           renderingMode="template"
         />
       </NativeTabs.Trigger>

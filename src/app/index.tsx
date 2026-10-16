@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router';
-import { Linking, StatusBar, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import { Linking, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 export default function HomeScreen() {
@@ -40,7 +40,6 @@ export default function HomeScreen() {
   style={styles.btnPrimary} 
   activeOpacity={0.8}
   onPress={() => {
-    console.log("Botão clicado! Tentando abrir a tela de unidades...");
     router.push('/unidades' as any);
   }}
 >

@@ -12,14 +12,14 @@
   },
   {
     "id": "2",
-    "nome": "Hospital Municipal Dr. Mário Gatti",
-    "endereco": "Av. Prefeito Faria Lima, 340, Parque Itália, Campinas - SP",
-    "telefone": "(19) 3772-5700",
+    "nome": "Complexo Hosp. Pref. Edivaldo Orsi (Ouro Verde)",
+    "endereco": "Avenida Ruy Rodrigues, 3434, Jardim Yeda, Campinas - SP",
+    "telefone": "(19) 3772-8347",
     "horario": "Atendimento 24h",
-    "latitude": -22.9213,
-    "longitude": -47.0664,
+    "latitude": -22.9662,
+    "longitude": -47.1182,
     "soroAntiofidico": true,
-    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+    "atendimentos": "🦂 Escorpiões"
   },
   {
     "id": "3",

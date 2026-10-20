@@ -53,15 +53,15 @@ A arquitetura prevista separa a interface mobile, a lógica de interação e o a
 
 | Página Inicial | Página Localização | Página Aviso |
 | :---: | :---: | :---: |
-| <img src="pagina-inicial.jpeg" width="220" /> | <img src="pagina-localizacao.jpeg" width="220" /> | <img src="pagina-aviso.jpeg" width="220" /> |
+| <img src="Página_Inicial.jpeg" width="220" /> | <img src="Página_Localização.jpeg" width="220" /> | <img src="Página_Aviso.jpeg" width="220" /> |
 
 | Página Lista de Unidades | Página Informações | Página Telefone |
 | :---: | :---: | :---: |
-| <img src="pagina-lista-unidades.jpeg" width="220" /> | <img src="pagina-informacoes.jpeg" width="220" /> | <img src="pagina-telefone.jpeg" width="220" /> |
+| <img src="Página_Lista_Unidades.jpeg" width="220" /> | <img src="Página_Informações.jpeg" width="220" /> | <img src="Página_Telefone.jpeg" width="220" /> |
 
 | Página Mapa |
 | :---: |
-| <img src="pagina-mapa.jpeg" width="220" /> |
+| <img src="Página_Mapa.jpeg" width="220" /> |
 
 ## 👥 Equipe
 

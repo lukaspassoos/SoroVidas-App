@@ -38,7 +38,10 @@
         {
           "locationAlwaysAndWhenInUsePermission": "Permite que o SoroVidas acesse sua localização para encontrar hospitais próximos."
         }
-      ]
+      ],
+      "expo-asset",
+      "expo-image",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,

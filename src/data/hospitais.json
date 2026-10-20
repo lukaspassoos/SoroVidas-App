@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1",
+    "nome": "Hospital de Clínicas da Unicamp",
+    "endereco": "Rua Vital Brasil, 251, Cidade Universitária, Campinas - SP",
+    "telefone": "(19) 3521-2121",
+    "horario": "Atendimento 24h",
+    "latitude": -22.8284,
+    "longitude": -47.0614,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "2",
+    "nome": "Hospital Municipal Dr. Mário Gatti",
+    "endereco": "Av. Prefeito Faria Lima, 340, Parque Itália, Campinas - SP",
+    "telefone": "(19) 3772-5700",
+    "horario": "Atendimento 24h",
+    "latitude": -22.9213,
+    "longitude": -47.0664,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "3",
+    "nome": "Santa Casa de Misericórdia de Piracicaba",
+    "endereco": "Av. Independência, 953, Alto, Piracicaba - SP",
+    "telefone": "(19) 3417-5000",
+    "horario": "Atendimento 24h",
+    "latitude": -22.7303,
+    "longitude": -47.6436,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões"
+  },
+  {
+    "id": "4",
+    "nome": "Hospital Vital Brazil (Instituto Butantan)",
+    "endereco": "Av. Vital Brasil, 1500, Butantã, São Paulo - SP",
+    "telefone": "(11) 2627-9529",
+    "horario": "Atendimento 24h",
+    "latitude": -23.5684,
+    "longitude": -46.7176,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas • 🐛 Taturanas"
+  },
+  {
+    "id": "5",
+    "nome": "Hospital das Clínicas de Ribeirão Preto",
+    "endereco": "Av. Bandeirantes, 3900, Monte Alegre, Ribeirão Preto - SP",
+    "telefone": "(16) 3602-1000",
+    "horario": "Atendimento 24h",
+    "latitude": -21.1633,
+    "longitude": -47.8576,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "6",
+    "nome": "Hospital de Base (FUNFARME)",
+    "endereco": "Av. Brig. Faria Lima, 5544, São José do Rio Preto - SP",
+    "telefone": "(17) 3201-5000",
+    "horario": "Atendimento 24h",
+    "latitude": -20.8335,
+    "longitude": -49.3957,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "7",
+    "nome": "Hospital de Clínicas da UNESP",
+    "endereco": "Av. Prof. Mário Rubens Guimarães Montenegro, s/n, Botucatu - SP",
+    "telefone": "(14) 3811-6000",
+    "horario": "Atendimento 24h",
+    "latitude": -22.8906,
+    "longitude": -48.4429,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "8",
+    "nome": "Conjunto Hospitalar de Sorocaba",
+    "endereco": "Rua Comendador Pereira Inácio, 564, Sorocaba - SP",
+    "telefone": "(15) 3332-9100",
+    "horario": "Atendimento 24h",
+    "latitude": -23.5113,
+    "longitude": -47.4665,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões"
+  },
+  {
+    "id": "9",
+    "nome": "Hospital Regional do Vale do Paraíba",
+    "endereco": "Av. Tiradentes, 280, Centro, Taubaté - SP",
+    "telefone": "(12) 3634-2000",
+    "horario": "Atendimento 24h",
+    "latitude": -23.0333,
+    "longitude": -45.5583,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "10",
+    "nome": "Santa Casa de Santos",
+    "endereco": "Av. Dr. Cláudio Luiz da Costa, 50, Jabaquara, Santos - SP",
+    "telefone": "(13) 3202-0600",
+    "horario": "Atendimento 24h",
+    "latitude": -23.9442,
+    "longitude": -46.3304,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🕷️ Aranhas"
+  },
+  {
+    "id": "11",
+    "nome": "Hospital Regional de Presidente Prudente",
+    "endereco": "Rua José Bongiovani, 1297, Presidente Prudente - SP",
+    "telefone": "(18) 3229-1500",
+    "horario": "Atendimento 24h",
+    "latitude": -22.1213,
+    "longitude": -51.3887,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "12",
+    "nome": "Santa Casa de Misericórdia de Marília",
+    "endereco": "Av. Vicente Ferreira, 828, Cascata, Marília - SP",
+    "telefone": "(14) 3402-5555",
+    "horario": "Atendimento 24h",
+    "latitude": -22.2139,
+    "longitude": -49.9405,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões"
+  },
+  {
+    "id": "13",
+    "nome": "Hospital Municipal de Americana",
+    "endereco": "Avenida da Saúde, 415 - Jd. N. Sra. Fátima, Americana - SP",
+    "telefone": "(19) 3471-6750",
+    "horario": "Atendimento 24h",
+    "latitude": -22.7335,
+    "longitude": -47.3364,
+    "soroAntiofidico": true,
+    "atendimentos": "🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "14",
+    "nome": "Santa Casa Anna Cintra",
+    "endereco": "Rua Ana Cintra, 332 - Centro, Amparo - SP",
+    "telefone": "(19) 3807-4477",
+    "horario": "Atendimento 24h",
+    "latitude": -22.7011,
+    "longitude": -46.7725,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "15",
+    "nome": "Hospital Augusto de Oliveira Camargo",
+    "endereco": "Avenida Francisco de Paula Leite, 399 - Santa Cruz, Indaiatuba - SP",
+    "telefone": "(19) 3801-8200 R. 8347",
+    "horario": "Atendimento 24h",
+    "latitude": -23.1035,
+    "longitude": -47.2241,
+    "soroAntiofidico": true,
+    "atendimentos": "🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "16",
+    "nome": "Santa Casa de Misericórdia de Itatiba",
+    "endereco": "Avenida da Saudade, 43 - Centro, Itatiba - SP",
+    "telefone": "(11) 4594-8899",
+    "horario": "Atendimento 24h",
+    "latitude": -23.0033,
+    "longitude": -46.8378,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "17",
+    "nome": "Hospital Municipal de Paulínia",
+    "endereco": "R. Miguel Vicente Cury, 100 - Nova Paulínia, Paulínia - SP",
+    "telefone": "(19) 3874-5500",
+    "horario": "Atendimento 24h",
+    "latitude": -22.7636,
+    "longitude": -47.1539,
+    "soroAntiofidico": true,
+    "atendimentos": "🦂 Escorpiões"
+  },
+  {
+    "id": "18",
+    "nome": "Hospital São Vicente de Paulo",
+    "endereco": "Rua São Vicente de Paulo, 223 - Centro, Jundiaí - SP",
+    "telefone": "(11) 4583-8155",
+    "horario": "Atendimento 24h",
+    "latitude": -23.1856,
+    "longitude": -46.8836,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "19",
+    "nome": "Santa Casa de Misericórdia de Limeira",
+    "endereco": "Avenida Antonio Ometto, 675 - Vila Claudia, Limeira - SP",
+    "telefone": "(19) 3446-6100",
+    "horario": "Atendimento 24h",
+    "latitude": -22.5644,
+    "longitude": -47.4011,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  },
+  {
+    "id": "20",
+    "nome": "Santa Casa de Misericórdia de Capivari",
+    "endereco": "Praça Dr. Mário Dias de Aguiar, 1 - Centro, Capivari - SP",
+    "telefone": "(19) 3491-9191",
+    "horario": "Atendimento 24h",
+    "latitude": -22.9961,
+    "longitude": -47.5080,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões"
+  },
+  {
+    "id": "21",
+    "nome": "Hospital Universitário São Francisco",
+    "endereco": "Avenida São Francisco de Assis, 218 - Cidade Universitária, Bragança Paulista - SP",
+    "telefone": "(11) 2454-8681",
+    "horario": "Atendimento 24h",
+    "latitude": -22.9750,
+    "longitude": -46.5361,
+    "soroAntiofidico": true,
+    "atendimentos": "🐍 Serpentes • 🦂 Escorpiões • 🕷️ Aranhas"
+  }
+]

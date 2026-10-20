@@ -49,6 +49,20 @@ A arquitetura prevista separa a interface mobile, a lógica de interação e o a
 
 `Tela inicial → Permissão de localização → Lista de unidades → Pesquisa/filtros → Seleção da unidade → Detalhes`
 
+## 🎨 Design do Projeto
+
+| Página Inicial | Página Localização | Página Aviso |
+| :---: | :---: | :---: |
+| ![Página Inicial](Página_Inicial.jpeg) | ![Página Localização](Página_Localização.jpeg) | ![Página Aviso](Página_Aviso.jpeg) |
+
+| Página Lista de Unidades | Página Informações | Página Telefone |
+| :---: | :---: | :---: |
+| ![Página Lista Unidades](Página_Lista_Unidades.jpeg) | ![Página Informações](Página_Informações.jpeg) | ![Página Telefone](Página_Telefone.jpeg) |
+
+| Página Mapa |
+| :---: |
+| ![Página Mapa](Página_Mapa.jpeg) |
+
 ## 👥 Equipe
 
 Projeto desenvolvido em grupo pelos seguintes integrantes:

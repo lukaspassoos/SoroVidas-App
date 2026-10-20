@@ -59,9 +59,9 @@ A arquitetura prevista separa a interface mobile, a lógica de interação e o a
 | :---: | :---: | :---: |
 | <img src="Página_Lista_Unidades.jpeg" width="220" /> | <img src="Página_Informações.jpeg" width="220" /> | <img src="Página_Telefone.jpeg" width="220" /> |
 
-| Página Mapa | Página Primeiros Socorros |
-| :---: | :---: |
-| <img src="Página_Mapa.jpeg" width="220" /> |  <img src="Página_Primeiros_Socorros.jpeg" width="220" /> |
+| Página Emergência | Página Mapa | Página Primeiros Socorros |
+| :---: | :---: | :---: |
+|  <img src="Página_Emergência.jpeg" width="220" /> | <img src="Página_Mapa.jpeg" width="220" /> |  <img src="Página_Primeiros_Socorros.jpeg" width="220" /> |
 
 ## 👥 Equipe
 

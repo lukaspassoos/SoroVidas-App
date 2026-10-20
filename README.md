@@ -47,7 +47,7 @@ A arquitetura prevista separa a interface mobile, a lógica de interação e o a
 
 ### Fluxo principal
 
-`Tela inicial → Permissão de localização → Lista de unidades → Pesquisa/filtros → Seleção da unidade → Detalhes`
+`Tela inicial → Permissão de localização → Página de avisos → Lista de unidades → Página Informações → Pesquisa/filtros → Seleção da unidade → Detalhes → Primeiros Socorros`
 
 ## 🎨 Design do Projeto
 
@@ -59,9 +59,9 @@ A arquitetura prevista separa a interface mobile, a lógica de interação e o a
 | :---: | :---: | :---: |
 | <img src="Página_Lista_Unidades.jpeg" width="220" /> | <img src="Página_Informações.jpeg" width="220" /> | <img src="Página_Telefone.jpeg" width="220" /> |
 
-| Página Mapa |
-| :---: |
-| <img src="Página_Mapa.jpeg" width="220" /> |
+| Página Mapa | Página Primeiros Socorros |
+| :---: | :---: |
+| <img src="Página_Mapa.jpeg" width="220" /> |  <img src="Página_Primeiros_Socorros.jpeg" width="220" /> |
 
 ## 👥 Equipe
 

@@ -1,6 +1,7 @@
 import { useRouter } from 'expo-router';
+import { StatusBar } from 'expo-status-bar';
 import { useState } from 'react';
-import { Image, Linking, Modal, StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { Image, Linking, Modal, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 export default function HomeScreen() {
@@ -14,7 +15,7 @@ export default function HomeScreen() {
 
   return (
     <SafeAreaView style={styles.safeArea}>
-      <StatusBar barStyle="light-content" backgroundColor="#0f172a" />
+      <StatusBar style="light"/>
       
       {/* --- MODAL DE AVISO IMPORTANTE --- */}
       <Modal
@@ -62,7 +63,7 @@ export default function HomeScreen() {
         {/* Cabeçalho / Logo */}
         <View style={styles.header}>
           <Image 
-            source={require('../../../assets/images/logo.jpeg')} // Ajuste o caminho se a sua pasta de assets for noutro local
+            source={require('../../../assets/images/logo.jpeg')}
             style={styles.logoImage}
             resizeMode="contain"
           />

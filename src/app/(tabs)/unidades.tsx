@@ -120,7 +120,7 @@ export default function UnidadesScreen() {
                 )}
 
                 <Text style={styles.cardText}>{item.endereco}</Text>
-                <Text style={styles.cardText}>📍 A {item.distancia} de si</Text>
+                <Text style={styles.cardText}>📍 A {item.distancia} de você</Text>
                 <Text style={styles.badgeSuccess}>✅ Unidade com Soro</Text>
               </View>
               <View style={styles.cardArrowContainer}>

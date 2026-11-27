@@ -29,6 +29,7 @@ A aplicação pretende apresentar informações como nome da unidade, endereço,
 ## 🛠️ Tecnologias previstas
 
 - **React Native** — desenvolvimento da interface mobile.
+- **Expo|Expo Go** — execução, testes e visualização da aplicação em dispositivos móveis durante o desenvolvimento.
 - **TypeScript** — linguagem de programação da aplicação.
 - **JavaScript** — linguagem de programação da aplicação.
 - **CSS** — linguagem declarativa de estilização.

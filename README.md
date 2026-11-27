@@ -31,6 +31,7 @@ A aplicação pretende apresentar informações como nome da unidade, endereço,
 - **React Native** — desenvolvimento da interface mobile.
 - **TypeScript** — linguagem de programação da aplicação.
 - **JavaScript** — linguagem de programação da aplicação.
+- **CSS** — linguagem declarativa de estilização.
 - **API REST** — comunicação com o serviço responsável pelos dados das unidades.
 - **JSON** — formato de troca de dados.
 - **Serviço de geolocalização do dispositivo** — obtenção da localização mediante autorização.

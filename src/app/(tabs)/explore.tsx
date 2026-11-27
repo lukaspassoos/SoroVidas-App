@@ -69,8 +69,12 @@ export default function GuiaSocorrosScreen() {
             <Text style={styles.bulletAlerta}>•</Text>
             <Text style={styles.cardTexto}>Não ofereça bebidas alcoólicas à vítima.</Text>
           </View>
+          <View style={styles.listItem}>
+            <Text style={styles.bulletAlerta}>•</Text>
+            <Text style={styles.cardTexto}>Não dirija até o hospital se estiver sozinho ou com sintomas: O veneno pode causar mal-estar súbito, queda de pressão, tontura ou desmaio.</Text>
+          </View>
         </View>
-
+        
       </ScrollView>
     </SafeAreaView>  
   );

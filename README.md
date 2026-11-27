@@ -29,6 +29,7 @@ A aplicação pretende apresentar informações como nome da unidade, endereço,
 ## 🛠️ Tecnologias previstas
 
 - **React Native** — desenvolvimento da interface mobile.
+- **TypeScript** — linguagem de programação da aplicação.
 - **JavaScript** — linguagem de programação da aplicação.
 - **API REST** — comunicação com o serviço responsável pelos dados das unidades.
 - **JSON** — formato de troca de dados.
